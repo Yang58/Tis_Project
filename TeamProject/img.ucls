@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <interface id="1" language="java" name="org.zerock.mapper.AdminBoardMapper" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/mapper/AdminBoardMapper.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="269" x="5630" y="986"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="2" language="java" name="org.zerock.mapper.AdminClubMapper" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/mapper/AdminClubMapper.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="257" x="2660" y="986"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="3" language="java" name="org.zerock.mapper.AdminMemberMapper" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/mapper/AdminMemberMapper.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="187" x="2206" y="986"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="4" language="java" name="org.zerock.mapper.BoardAttachMapper" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/mapper/BoardAttachMapper.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="217" x="3439" y="986"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="5" language="java" name="org.zerock.mapper.BoardMapper" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/mapper/BoardMapper.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="232" x="4512" y="986"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="6" language="java" name="org.zerock.mapper.ClubMapper" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/mapper/ClubMapper.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="252" x="5939" y="986"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="7" language="java" name="org.zerock.mapper.QnaBoardMapper" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/mapper/QnaBoardMapper.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="232" x="4240" y="986"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="8" language="java" name="org.zerock.mapper.ReplyMapper" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/mapper/ReplyMapper.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="255" x="5026" y="986"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="9" language="java" name="org.zerock.mapper.UsersMapper" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/mapper/UsersMapper.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="227" x="1138" y="986"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="10" language="java" name="org.zerock.service.AdminBoardService" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/service/AdminBoardService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="269" x="5321" y="986"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="11" language="java" name="org.zerock.service.AdminBoardServiceImpl" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/service/AdminBoardServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="405" width="269" x="5476" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="org.zerock.domain.AdminBoardDTO" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/domain/AdminBoardDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="909" width="156" x="1461" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="org.zerock.domain.AdminClubDTO" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/domain/AdminClubDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="909" width="162" x="612" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="org.zerock.domain.AdminMemberDTO" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/domain/AdminMemberDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="639" width="150" x="231" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="org.zerock.domain.AdminMyClubDTO" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/domain/AdminMyClubDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="150" x="41" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="org.zerock.domain.AdminReplyDTO" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/domain/AdminReplyDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="531" width="150" x="1657" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="org.zerock.domain.AttachFileDTO" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/domain/AttachFileDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="154" x="2037" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="org.zerock.domain.BoardVO" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/domain/BoardVO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1107" width="227" x="3254" y="1449"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="org.zerock.domain.ClubDTO" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/domain/ClubDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="855" width="162" x="2231" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="org.zerock.domain.Criteria" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/domain/Criteria.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="423" width="145" x="3254" y="986"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="org.zerock.domain.MemberVO" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/domain/MemberVO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="423" width="150" x="1847" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="org.zerock.domain.MyClubDTO" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/domain/MyClubDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="150" x="1271" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="org.zerock.domain.PageDTO" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/domain/PageDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="127" x="3254" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="org.zerock.domain.UsersVO" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/domain/UsersVO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="531" width="151" x="421" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="org.zerock.domain.ReplyVO" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/domain/ReplyVO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="531" width="150" x="814" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="org.zerock.domain.BoardAttachVO" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/domain/BoardAttachVO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="477" width="164" x="3254" y="2596"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="27" language="java" name="org.zerock.service.AdminClubService" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/service/AdminClubService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="257" x="2957" y="986"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="28" language="java" name="org.zerock.service.AdminClubServiceImpl" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/service/AdminClubServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="257" x="2809" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="29" language="java" name="org.zerock.service.AdminMemberService" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/service/AdminMemberService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="187" x="2433" y="986"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="30" language="java" name="org.zerock.service.AdminMemberServiceImpl" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/service/AdminMemberServiceImpl.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="171" width="261" x="2433" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="31" language="java" name="org.zerock.service.BoardService" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/service/BoardService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="232" x="3696" y="986"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="32" language="java" name="org.zerock.service.BoardServiceImpl" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/service/BoardServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="282" x="3696" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="33" language="java" name="org.zerock.service.ClubService" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/service/ClubService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="252" x="6231" y="986"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="34" language="java" name="org.zerock.service.QnaBoardService" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/service/QnaBoardService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="232" x="3968" y="986"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="35" language="java" name="org.zerock.service.QnaBoardServiceImpl" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/service/QnaBoardServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="232" x="4104" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="org.zerock.service.ClubServiceImpl" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/service/ClubServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="252" x="6085" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="37" language="java" name="org.zerock.service.ReplyService" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/service/ReplyService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="202" x="4784" y="986"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="38" language="java" name="org.zerock.service.ReplyServiceImpl" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/service/ReplyServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="202" x="4784" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="39" language="java" name="org.zerock.service.UsersService" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/service/UsersService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="227" x="871" y="986"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="40" language="java" name="org.zerock.service.UsersServiceImpl" project="Project_lee" 
+    file="/Project_lee/src/main/java/org/zerock/service/UsersServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="423" width="227" x="1004" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="41">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="34"/>  
+  </realization>  
+  <association id="42">    
+    <end type="SOURCE" refId="40" navigable="false">      
+      <attribute id="43" name="mapper"/>      
+      <multiplicity id="44" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="45">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="10"/>  
+  </realization>  
+  <realization id="46">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="37"/>  
+  </realization>  
+  <realization id="47">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="29"/>  
+  </realization>  
+  <realization id="48">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="31"/>  
+  </realization>  
+  <realization id="49">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="39"/>  
+  </realization>  
+  <association id="50">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="51" name="mapper"/>      
+      <multiplicity id="52" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="53">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="54" name="mapper"/>      
+      <multiplicity id="55" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="56">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="57" name="boardMapper"/>      
+      <multiplicity id="58" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="59">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="33"/>  
+  </realization>  
+  <association id="60">    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="61" name="club_mapper"/>      
+      <multiplicity id="62" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="63">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="64" name="attachList"/>      
+      <multiplicity id="65" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="66">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="67" name="mapper"/>      
+      <multiplicity id="68" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="69">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="70" name="attachMapper"/>      
+      <multiplicity id="71" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="72">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="73" name="mapper"/>      
+      <multiplicity id="74" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="75">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <realization id="76">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="27"/>  
+  </realization>  
+  <association id="77">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="78" name="mapper"/>      
+      <multiplicity id="79" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="80">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="81" name="mapper"/>      
+      <multiplicity id="82" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="83">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="84" name="cri"/>      
+      <multiplicity id="85" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
